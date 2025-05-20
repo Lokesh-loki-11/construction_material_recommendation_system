@@ -1,0 +1,101 @@
+Name,Material Type,Application,Strength,Water Resistance,Cost,Durability,Eco-Friendly
+UltraTech OPC 53, Cement, Structural Construction, High, Medium,Low, High, Yes
+ACC Cement PPC, Cement, Masonry & Plastering, Medium, High,Low, High, Yes
+Ambuja Cement Portland, Cement, Foundation Support, High, Medium,Low, High, Yes
+Shree Cement SRPC, Cement, Sulphate Resistant Applications, High, High,Medium, High, Yes
+Ramco Supergrade Cement, Cement, Heavy Duty Construction, Low, Medium,Low, High, Yes
+Dalmia DSP Cement, Cement, Bridges & Infrastructure, High, High,Medium, High, Yes
+Birla White Cement, Cement, Architectural Finishes, Medium, Low,Low, Medium, Yes
+JK Lakshmi Cement PPC, Cement, Masonry & Plastering, Medium, High,Low, High, Yes
+Bharathi Cement OPC, Cement, Reinforced Concrete, High, Medium,Low, High, No
+Penna Premium Cement, Cement, Marine Construction, High, High,High, High, Yes
+The India Cements OPC 53, Cement, Large Structures, Low, Medium,Medium, High, Yes
+Zuari Cement Portland, Cement, Infrastructure Development, High, Medium,Low, High, No
+Mehta Group Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, High, Yes
+Sagar Cement PPC, Cement, Residential Construction, Medium, High,Low, High, Yes
+Manikgarh Cement OPC, Cement, Reinforced Concrete, High, Medium,Low, Medium, Yes
+Chettinad Cement PSC, Cement, Coastal Construction, High, High,High, Medium, Yes
+Jaypee Cement Portland, Cement, High-rise Buildings, Low, Medium,Low, Low, Yes
+HeidelbergCement India OPC, Cement, General Construction, High, Medium,Low, Medium, Yes
+Kesoram Cement PPC, Cement, Large-scale Infrastructure, High, Low,Medium, High, Yes
+Orient Cement OPC 53, Cement, High Load Structures, High, Medium,Medium, High, Yes
+Prism Cement OPC 53, Cement, Bridges & Infrastructure, High, Medium,Medium, High, Yes
+Deccan Cement PPC, Cement, Residential Construction, Medium, High,Low, High, Yes
+Maha Cement Portland, Cement, High-rise Buildings, Low, Medium,Low, High, Yes
+Vicat Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, High, Yes
+Anjani Portland Cement OPC, Cement, Heavy Load Structures, High, Medium,Medium, High, Yes
+Wonder Cement PPC, Cement, Masonry & Plastering, Medium, Low,Low, Low, Yes
+Shree Ultra Cement OPC, Cement, Structural Construction, High, Medium,Low, High, Yes
+Reliance Cement Portland, Cement, Infrastructure Development, High, Medium,Medium, High, Yes
+Sanghi Cement PSC, Cement, Coastal Construction, High, High,High, High, Yes
+Penna Premium Cement OPC, Cement, Reinforced Concrete, High, Medium,Low, High, Yes
+KCP Cement PPC, Cement, General Construction, Low, Medium,Low, High, Yes
+Mehta Group Cement OPC 53, Cement, Large-scale Infrastructure, High, Medium,Medium, Low, Yes
+Chettinad Cement SRPC, Cement, Sulphate Resistant Applications, High, High,High, High, Yes
+Coromandel Cement PPC, Cement, Residential Construction, Medium, Low,Low, Medium, Yes
+Sagar Cement PSC, Cement, Bridges & Infrastructure, High, High,High, High, Yes
+Manikgarh Cement Portland, Cement, Reinforced Concrete, Low, Medium,Low, High, Yes
+Mangalam Cement OPC 53, Cement, Large Structures, High, Medium,Medium, High, Yes
+Jaypee Cement PPC, Cement, High-load Foundations, High, Medium,Low, High, Yes
+Zuari Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, High, Yes
+Orient Cement PSC, Cement, Coastal Construction, High, High,High, High, Yes
+Prism Cement OPC, Cement, Large-scale Infrastructure, Low, Medium,Medium, High, Yes
+Deccan Cement PSC, Cement, Coastal & Marine Projects, High, High,High, Low, No
+Maha Cement SRPC, Cement, Sulphate Resistant Applications, High, High,High, High, Yes
+Vicat Cement PPC, Cement, Masonry & Plastering, Medium, High,Low, High, Yes
+Anjani Cement OPC 53, Cement, Heavy Load Foundations, High, Low,Medium, High, Yes
+Wonder Cement Portland, Cement, General Construction, High, Medium,Low, Medium, Yes
+Shree Ultra Cement PSC, Cement, Bridges & Highways, High, High,High, High, Yes
+Reliance Cement OPC, Cement, Structural Support, High, Medium,Medium, High, Yes
+Sanghi Cement PPC, Cement, Residential Masonry, Low, High,Low, High, Yes
+Penna Premium Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, Low, No
+KCP Cement OPC 53, Cement, Large Buildings & Infrastructure, High, Medium,Medium, High, Yes
+Mehta Group Cement PSC, Cement, Coastal Reinforcement, High, High,High, High, Yes
+Chettinad Cement PPC, Cement, Residential Plastering, Medium, High,Low, Medium, Yes
+Coromandel Cement OPC, Cement, Industrial Buildings, High, Low,Medium, High, Yes
+Sagar Cement Portland, Cement, Reinforced Concrete, Low, Medium,Low, Medium, Yes
+Manikgarh Cement SRPC, Cement, Long-lasting Structures, High, High,High, Low, Yes
+Mangalam Cement PPC, Cement, Commercial Construction, Medium, High,Low, Low, No
+Jaypee Cement OPC 53, Cement, Earthquake-resistant Buildings, High, Medium,Low, Medium, No
+Zuari Cement PSC, Cement, Coastal & Marine Foundations, High, High,High, High, Yes
+Orient Cement Portland, Cement, High-rise Structural Reinforcement, High, Medium,Medium, High, Yes
+Prism Cement PSC, Cement, Coastal Reinforcement, Low, High,High, Medium, Yes
+Deccan Cement OPC, Cement, Large Buildings & Infrastructure, High, Low,Medium, Medium, Yes
+Maha Cement PPC, Cement, Residential Plastering, Medium, High,Low, Medium, Yes
+Vicat Cement Portland, Cement, Industrial Buildings, High, Medium,Medium, High, Yes
+Anjani Cement SRPC, Cement, Long-lasting Structures, High, High,High, High, Yes
+Wonder Cement OPC 53, Cement, High-rise Structural Reinforcement, High, Medium,Medium, Low, No
+Shree Ultra Cement PPC, Cement, Earthquake-resistant Buildings, High, Medium,Low, High, Yes
+Reliance Cement PSC, Cement, Coastal & Marine Foundations, Low, High,High, Low, Yes
+Sanghi Cement OPC 53, Cement, Bridges & Infrastructure, High, Low,Medium, High, Yes
+Penna Premium Cement Portland, Cement, Masonry & Plastering, Medium, High,Low, High, Yes
+KCP Cement SRPC, Cement, Sulphate Resistant Applications, High, High,High, High, Yes
+Mehta Group Cement PPC, Cement, Large-scale Infrastructure, High, Medium,Medium, High, No
+Chettinad Cement OPC, Cement, General Construction, Medium, Medium,Low, High, Yes
+Coromandel Cement PSC, Cement, Coastal Reinforcement, High, High,High, High, Yes
+Sagar Cement OPC 53, Cement, High Load Foundations, High, Medium,Medium, High, Yes
+Manikgarh Cement PPC, Cement, Residential Masonry,Low, High,Low, High, Yes
+Mangalam Cement Portland, Cement, Reinforced Concrete, High, Medium,Low, High, Yes
+Jaypee Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, Low, Yes
+Zuari Cement PSC, Cement, Bridges & Highways, High, Low,High, High, Yes
+Orient Cement OPC, Cement, Structural Support, High, Medium,Medium, High, Yes
+TATA Structura Cement, Cement, Large Structures, Medium, Medium,Medium, High, Yes
+JSW Cement OPC 53, Cement, Reinforced Concrete, High, Medium,Low, High, Yes
+SAIL Sulphate Resistant Cement, Cement, Harsh Environmental Conditions, High, High,High, High, Yes
+Essar Cement PSC, Cement, Coastal & Marine Foundations, Low, High,High, High, Yes
+Jindal Portland Cement, Cement, High-rise Structural Reinforcement, High, Medium,Medium, High, Yes
+Rashtriya Ispat Nigam Cement, Cement, Bridges & Infrastructure, High, Low,Medium, High, Yes
+UltraTech Premium Cement, Cement, Masonry & Plastering, Medium, High,Low, High, Yes
+Ambuja Cement SRPC, Cement, Sulphate Resistant Applications, High, High,High, High, Yes
+Ramco Cement PPC, Cement, Residential Construction, Medium, High,Low, Medium, Yes
+Dalmia White Cement, Cement, Architectural Finishes, Medium, High,Low, Medium, Yes
+Birla Cement OPC 53, Cement, Heavy Load Foundations, Low, Medium,Medium, Medium, Yes
+JK Lakshmi Cement Portland, Cement, General Construction, High, Medium,Low, High, Yes
+Bharathi Cement SRPC, Cement, Harsh Environmental Conditions, High, High,High, High, Yes
+Penna Ultra Cement, Cement, Bridges & Highways, High, High,High, High, Yes
+The India Cements Premium OPC, Cement, Structural Support, High, Medium,Medium, High, Yes
+Zuari Cement SRPC, Cement, Sulphate Resistant Applications, High, High,High, High, Yes
+Mehta Group Cement PSC, Cement, Coastal Reinforcement, High, High,High, High, Yes
+Sagar Cement Portland, Cement, Industrial Buildings, High, Medium,Medium, Medium, Yes
+Manikgarh Cement PSC, Cement, Large Buildings & Infrastructure, High, Medium,Medium, High, Yes
+Chettinad Cement PPC, Cement, Masonry & Plastering, Medium, Low,Low, High, Yes
