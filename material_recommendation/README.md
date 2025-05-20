@@ -1,4 +1,4 @@
-# 🏗️ Material Recommendation System
+# 🏗️ Construction Material Recommendation System
 
 This is a simple Streamlit-based web application that recommends construction materials like bricks, cement, steel, etc., based on user preferences.
 
@@ -17,7 +17,7 @@ This is a simple Streamlit-based web application that recommends construction ma
 
 ## 📁 Folder Structure
 
-Track3D/
+Material Recommendation /
 ├── app.py
 ├── requirements.txt
 ├── README.md
