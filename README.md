@@ -41,13 +41,13 @@ The system compares user input with a database of 1000+ construction materials a
 
 Seven datasets were used:
 
-* Steel product list (200 items)
-* Iron product list (200 items)
-* Wood product list (200 items)
-* Concrete product list (200 items)
-* Cement product list (200 items)
-* Aggregate product list (200 items)
-* Bricks product list (200 items)
+* Steel product list 
+* Iron product list 
+* Wood product list 
+* Concrete product list 
+* Cement product list 
+* Aggregate product list 
+* Bricks product list
 
 Each dataset contains:
 
