@@ -74,6 +74,7 @@ Each dataset contains:
  ┃ ┣ aggregate_product_list_200.csv
  ┃ ┗ Bricks_products_list_200.csv
  ┣ 📂 model
+ ┣ ┗ material recommendaton.ipynb
  ┃ ┗ product_recommender.pkl
  ┣ 📄 app.py
  ┗ 📄 README.md
