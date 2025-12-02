@@ -135,6 +135,8 @@ The project uses **content-based filtering**:
 
 ### 5. Save model using pickle
 
+### 6. Streamlit 
+
 ---
 
 ## 🌐 Streamlit App 
@@ -161,4 +163,3 @@ streamlit run app.py
 **Asi Lokesh**
 Beginner in Machine Learning & Data Science.
 
-Feel free to contribute or suggest improvements!
